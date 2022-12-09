@@ -1,7 +1,12 @@
-pubspec.lock
-.vscode
-*.idea
-*.DS_Store
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# Melos
-pubspec_overrides.yaml
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
